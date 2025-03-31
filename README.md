@@ -1,4 +1,5 @@
-### *Yuri Levi -  19y
+
+ 🤸🏽‍♂️  ### *Yuri Levi -  19y
 
 
 
@@ -32,7 +33,9 @@ Além da área técnica, sou fortemente inserido na cultura pop, com grande inte
   <img align="center" alt="Rafa-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <p>
+    💻
+  </p>
   <img align="right" alt="yuri-gif" height="120" width="120" src="https://cdn.discordapp.com/attachments/1144665186540720198/1356327497880567968/61fad0b7c6a847caad09fd6f8c94cd2a.gif?ex=67ec29ea&is=67ead86a&hm=1714e9b1a56fb17a7526cf335547faeddb871ab21ac30e5464222b168fa46c1c&">
 </div>
   
