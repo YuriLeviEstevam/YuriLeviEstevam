@@ -8,7 +8,7 @@ Oiiii sou estudante de Análise e Desenvolvimento de Sistemas, já tendo conclu�
 Além da área técnica, sou fortemente inserido na cultura pop, com grande interesse por Pokémon e outros elementos do entretenimento geek. Meu estilo autêntico reflete minha personalidade criativa e aberta a novas experiências. Tenho facilidade em trabalhar em equipe, seguir direções e cumprir metas, sempre com comprometimento e dedicação, busco oportunidades que me permitam crescer profissionalmente, aplicando meus conhecimentos e aprendendo com desafios reais no mundo da tecnologia.
 
 <div>
-  #### 📊 Estatísticas
+ -📊 Estatísticas
   
   <p>
     <img 
